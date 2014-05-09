@@ -1,0 +1,14 @@
+{
+  "name": "guten",
+  "main": "./lib/guten",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["guten:open"],
+  "repository": "https://github.com/atom/guten",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
